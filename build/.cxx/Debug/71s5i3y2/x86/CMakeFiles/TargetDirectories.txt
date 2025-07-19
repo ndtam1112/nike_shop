@@ -1,2 +1,0 @@
-F:/Project/nike_shop/build/.cxx/Debug/71s5i3y2/x86/CMakeFiles/edit_cache.dir
-F:/Project/nike_shop/build/.cxx/Debug/71s5i3y2/x86/CMakeFiles/rebuild_cache.dir
